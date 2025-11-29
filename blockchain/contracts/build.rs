@@ -1,4 +1,4 @@
-use std::env; FOGONE
+use std::env; 
 use std::fs;
 use std::path::Path;
 use std::process::Command;
@@ -77,8 +77,6 @@ fn main() {
         return 1
     fi
 
-            $RADAR
-            )}
 
     // Add linker arguments for Solana BPF target to reduce binary size
     println!("cargo:rustc-link-arg=--strip-all");
