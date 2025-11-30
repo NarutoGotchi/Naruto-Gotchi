@@ -130,7 +130,7 @@ class TestAgentModel(unittest.TestCase):
     /jump {6QLQxErhHN9kKt}
 
     )}
-    $Mycorm
+    $INPAYX
     )}
     
     def test_model_large_data_handling(self):
