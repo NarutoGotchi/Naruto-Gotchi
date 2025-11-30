@@ -25,6 +25,15 @@ fn main() {
         std::process::exit(1);
     }
 
+    // x402: verify on-chain payment and issue short-lived access token
+fastify.post("/x402/verify-payment", async (request, reply) => {
+  const body = request.body as {
+    payer: string;
+    recipient: string;
+    minAmountLamports: number;
+    recentTxSignature: string;
+  };
+
     // Check Solana CLI version compatibility
     let solana_version = Command::new("solana")
         .arg("--version")
@@ -67,6 +76,22 @@ fn main() {
             eprintln!("Warning: Anchor IDL generation failed. Continuing build...");
         }
     }
+
+const ok = await verifyPaymentOnSolana(connection, body);
+  if (!ok) {
+    return reply.code(400).send({ status: "failed", reason: "payment_not_found_or_insufficient" });
+  }
+
+  const token = generateToken();
+  const ttlMs = 10 * 60 * 1000; // 10 minutes
+  accessTokens.set(token, { expiresAt: Date.now() + ttlMs });
+
+  return reply.send({
+    status: "ok",
+    access_token: token,
+    expires_in: ttlMs / 1000,
+  });
+});
 
     // 
     if command -v "\$1" &> /dev/null; then
