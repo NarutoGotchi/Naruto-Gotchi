@@ -10,7 +10,7 @@ X (Twitter)
 https://x.com/DeGen100XXXX
 
 Contract Address (Solana)
-EA6BKMya7hGCjrAbK61RTESrbT4YXF8TpmZyMGfUpump
+9iuG1Du85yedBtZqaB8PnzLfYsnq4mh6AyJtAH7epump
 
 Always verify the contract address through the official website.  
 Do not trust DMs, replies, or unofficial links.
