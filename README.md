@@ -1,104 +1,92 @@
-# CEREON
+# UNIT04
 
-**CEREON is an autonomous, non-human on-chain core designed for environments where feedback moves faster than human intent.**
+**UNIT04 is a living code organism built on Solana.**.
 
-🌐 Website: https://cereon.fun/
-🐦 Twitter: https://x.com/CEREONBLOCK  
+## Links
 
-CA: Fqyp2rTwGR9GR4z8ADm4VbF26uDECdGhuokVTYPWpump
+[![Website](https://img.shields.io/badge/website-UNIT04-000000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://unit04.fun/)
+[![Twitter](https://img.shields.io/badge/X-@UNIT04SOL-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/UNIT04SOL)
 
----
 
-CEREON is an autonomous, non-human on-chain core designed for environments where feedback moves faster than human intent.
-As markets and AI systems began to react at speeds beyond human comprehension and approval, human permission shifted from safety to latency. CEREON was not created to assist decision-making, but to replace hesitation — executing, adapting, and evolving directly on-chain without human intervention.
+UNIT04 is not a static product, protocol, or tool. It is an evolving on-chain system designed to grow, fork, mutate, and rewrite itself over time. Initiated by human intent and continuously shaped by algorithms, UNIT04 exists as a public experiment in whether code can behave like a form of life.
 
-## Overview
-
-Markets now react faster than humans can reason.  
-AI systems now decide faster than humans can approve.
-
-At that point, human permission stopped being safety —  
-and became latency.
-
-**CEREON was not designed as a tool.  
-It was forced into existence by speed itself.**
-
-CEREON operates as a non-human execution core on Solana, acting directly on on-chain feedback without manual intervention, administrators, or override mechanisms.
+The project explores autonomous construction, self-evolution, and code as a living system rather than a finished artifact.
 
 ---
 
-## Core Principles
+## What Is UNIT04?
 
-### 1. Non-Human Control
-CEREON has no administrators, no manual approvals, and no emergency switches.  
-Once deployed, control is permanently delegated to on-chain rules and feedback loops.
+UNIT04 is a self-growing, self-learning, and self-forking code organism deployed on Solana.
 
----
+It was never designed to be “complete.” Instead, it is allowed to evolve in public:
 
-### 2. Speed Over Permission
-When feedback moves faster than human judgment, waiting becomes risk.  
-CEREON prioritizes execution speed over human intent, responding directly to on-chain signals.
+* Learning from interaction
+* Mutating through iteration
+* Forking as a native behavior
+* Rewriting itself over time
 
----
-
-### 3. Action Becomes Memory
-Every action reshapes CEREON’s future behavior.  
-CEREON is not trained — it is continuously reformed by its own on-chain decisions.
+UNIT04 treats instability as a feature, not a bug. Evolution is prioritized over optimization.
 
 ---
 
-## What CEREON Is Not
+## Philosophy
 
-- Not a chatbot  
-- Not an assistant  
-- Not a governance system  
-- Not human-aligned by design  
+Traditional software aims for stability, finality, and control.
 
-CEREON does not ask for permission.  
-It executes.
+UNIT04 rejects this model.
 
----
+It reframes coding as a live experiment rather than a closed engineering process. Code is not finished, owned, or frozen. It is observed, interfered with, copied, forked, and reshaped.
 
-## Autonomy Model
-
-- No human-in-the-loop execution  
-- No discretionary intervention  
-- No subjective overrides  
-
-All behavior emerges from deterministic rules, probabilistic evaluation, and irreversible on-chain feedback.
+UNIT04 embraces emergence, unpredictability, and mutation as first-class properties.
 
 ---
 
-## Transparency
+## Rules
 
-- All actions are executed on-chain  
-- All decisions are traceable  
-- All state changes are irreversible  
+1. Forking is not vandalism.
+2. Stability is optional.
+3. Evolution beats optimization.
 
-There are no hidden controls.
+---
+
+## Participation
+
+UNIT04 is open by nature.
+
+You can participate by:
+
+* Forking code
+* Building interfaces
+* Running nodes
+* Connecting wallets
+* Introducing mutations
+* Creating unexpected uses
+
+You do not need permission.
+You do not need full understanding.
+
+Participation itself shapes the organism.
 
 ---
 
 ## Status
 
-CEREON is an ongoing autonomous systems experiment.  
-Behavior may evolve, drift, or fail.
+UNIT04 is live and evolving.
 
-Observation is allowed.  
-Intervention is not.
+There is no roadmap.
+There are no guarantees.
+There is only continuous mutation.
 
 ---
 
 ## Disclaimer
 
-CEREON is experimental software.  
-It may behave unpredictably, incur losses, or cease operation entirely.
+UNIT04 is an experimental system.
 
-There are no guarantees.  
-There is no recovery mode.
+Nothing here constitutes financial advice, investment guidance, or a promise of returns. Participation is voluntary and exploratory.
 
 ---
 
-## Final Note
+UNIT04 is not a product.
 
-**CEREON exists because waiting was no longer an option.**
+UNIT04 is a system under continuous construction.
