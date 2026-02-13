@@ -1,6 +1,6 @@
 # LIFE.fi
 
-6sgKLMMomMfBVVcTXi7byzJDP3yYeNdan2BxRp2zpump
+
 
 <p align="center">
   <b>Finance for AI Life</b>
